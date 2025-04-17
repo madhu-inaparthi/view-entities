@@ -18,7 +18,7 @@ function App() {
         'https://writestylesonline.com/wp-content/uploads/2016/08/Follow-These-Steps-for-a-Flawless-Professional-Profile-Picture.jpg',
       username: 'bob',
       content: 'Loving this social media app.',
-      isLiked: true,
+      isLiked: false,
     },
     {
       id: 3,
